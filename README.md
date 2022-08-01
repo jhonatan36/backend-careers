@@ -8,7 +8,7 @@ Você precisa construir um sistema básico de cadastro de clientes, onde deverá
 - Editar cliente  
 - Apagar cliente  
   
-Na tela de cadastro, deve conter o campos de:  
+Na tela de cadastro, deve conter os seguintes campos:  
 - **Input text:** Nome  
 - **Input text:** Email  
 - **Input text:** Telefone  
@@ -25,11 +25,11 @@ Utilize alguma destas linguagem abaixo para desenvolver, podendo utilizar Framew
 Se for utilizar algum Framework, recomendado utilizar:  
 - PHP - Codeigniter 3.1+  
   
-Para o login, criar um usuário de login `admin` e senha `admin`  
+Para o login, criar um usuário de login `admin@admin.com` e senha `admin`  
   
 # Como realizo a entrega?
 A entrega pode ser realizada via Github, enviando o link do GitHub contendo a aplicação de teste para webinterno@amzmp.com.br  
-Caso preferir, pode criar um pacote zipado (WinRar, WinzZip, 7-zip, etc...) enviando para o email webinterno@amzmp.com.br  
+Caso preferir, pode criar um pacote zipado (WinRar, WinzZip, 7-zip, etc...) enviando para o e-mail webinterno@amzmp.com.br  
 Coloque no assunto:  
 `[Teste - Backend] Seu Nome`  
 Favor evidenciar a forma de setup inicial da aplicação, caso tiver alguma forma específica.
