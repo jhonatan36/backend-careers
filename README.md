@@ -13,11 +13,8 @@ Na tela de cadastro, deve conter os seguintes campos:
 - **Input text:** Email  
 - **Input text:** Telefone  
 - **Input text:** Endereço (Utilizar a funcionalidade de autocomplete da API VIACEP)  
-- **Select:** Veículo (Utilizar a API da Tabela FIPE para selecionar a Marca / Modelo e ano do Veículo e preencher o campo valor)   
-- **Input text:** Valor do Veículo  
   
 API ViaCEP: https://viacep.com.br/  
-API Tabela FIPE: https://fipeapi.com.br/  
   
 Utilize alguma destas linguagem abaixo para desenvolver, podendo utilizar Frameworks ou não:  
 - PHP  
